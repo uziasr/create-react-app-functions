@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>Web 23  is the bomb</h1>
       <h2>
         Deployed with{' '}
         <a
